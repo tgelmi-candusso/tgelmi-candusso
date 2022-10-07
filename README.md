@@ -4,11 +4,11 @@ Hi 👋 My name is Tiziana Gelmi Candusso
 I'm a movement ecologist focused on applying computational tools to understand questions surrounding wildlife
 -------------------------------------------------------------------------------------------------------------
 
-I am a postdoctoral fellow, i.e. researcher, at the University of Toronto, in the spatial Ecology lab guided by Marie-Josee Fortin. I analyze the movement and habitat use of urban wildlife, their species interactions, and how it is influenced by anthropogenic presence. I work with camera trap data, GPS collared data and citizen science, I develop landscape connectivity models, Occupancy models, and agent-based models, and I am starting to apply machine learning models to streamline our data management process.
+I am a postdoctoral fellow, i.e. researcher, at the University of Toronto, in the spatial Ecology lab guided by Marie-Josee Fortin. I analyze the movement and habitat use of urban wildlife, their species interactions, and how it is all influenced by anthropogenic presence. I work with camera trap data, GPS collared data and remote sensing data to apply landscape connectivity models, habitat selection models, and machine learning models. 
+Part of my research is to understand the eecological role of urban mammals and how this cascades into other group species, either through competition, predation and seed dispersal.
 
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [tiziana.gelmicandusso@utoronto.ca](mailto:tiziana.gelmicandusso@utoronto.ca)
-* 🧠  I'm learning AI for conservation
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
