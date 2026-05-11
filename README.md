@@ -1,7 +1,7 @@
 Hi 👋 My name is Tiziana Gelmi Candusso
 =======================================
 
-I'm focused on applying computational tools to understand questions surrounding wildlife and their use of the landscape.
+Computational tools to understand questions surrounding wildlife and their use of the landscape.
 -------------------------------------------------------------------------------------------------------------
 
 
